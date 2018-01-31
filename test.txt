@@ -1,1 +1,2 @@
 Adding new file to the project.
+Now modifying this file.
