@@ -1,10 +1,1 @@
 a.txt file is modified
-abc
-def
-123
-456
-Feb 22
-Trying redirect
-Does it work?
-abcdef
-Rock you like a hurricane
