@@ -1,4 +1,1 @@
-webhook-qa?redirect
-10:50
-Now it is redirected
-10:56
+redirected again
