@@ -1,2 +1,1 @@
-This is Monday.
-With new message.
+Change in new branch.
